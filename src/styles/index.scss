@@ -1,0 +1,17 @@
+$theme-colors: (
+  "primary": #6200ea,
+  "sucess": #33691e,
+  "danger": #f50057,
+  "warning": #ffab00,
+);
+
+@import "~bootstrap/scss/bootstrap";
+
+
+body{
+  font-size: 62.5%;
+}
+
+.wrapper{
+  padding: 8rem 0 5rem;
+}

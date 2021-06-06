@@ -1,0 +1,37 @@
+// .actions {
+//   opacity: 0;
+// }
+
+tr th,tr td {
+  font-size: 1rem;
+}
+// tr:hover td.actions {
+//   opacity: 1;
+// }
+
+.actions a {
+  display: inline-block;
+  color: #222;
+  margin: 0 5px;
+  &:hover {
+    color: #222;
+  }
+}
+
+.create_contact{
+  .card-header{
+     font-size: 1.2rem;
+  }
+}
+
+
+
+.contact_table{
+  width: 100%;
+}
+
+
+.contact_table_row td,.contact_table_row th{
+ padding: 15px 10px;
+
+}
